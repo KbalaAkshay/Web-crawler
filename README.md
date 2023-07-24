@@ -21,3 +21,8 @@ Here's a basic overview of how web crawlers work:
 Web crawlers play a vital role in ensuring the internet remains organized and accessible. However, there are certain ethical concerns and legal considerations associated with web crawling. For example, some websites might not want their content to be indexed or crawled, and webmasters can use robots.txt files or other measures to block or limit crawler access to their sites.
 
 In conclusion, web crawlers are powerful tools used by search engines and various applications to gather, index, and make sense of the vast amount of information available on the internet.
+# How to run the code
+
+
+Download all the files and run the WebCrawler.java file to know how the website link are stored and indexed .Feel free to change the url link other than www.google.com 
+
